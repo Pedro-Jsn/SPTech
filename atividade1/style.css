@@ -1,0 +1,31 @@
+.container{
+    background-color: #ffb42a; 
+    width: 500px; 
+    height: 500px;
+}
+
+.container .content{
+    background-color: #1eff1e; 
+    width: 50%; 
+    height: 50%;
+}
+
+.text{
+    color: white; 
+    background-color: red; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.container_2{
+    width: 50%; 
+    height: 50vh; 
+    background-color: rgb(60, 190, 250);
+}
+
+.container_2 .content{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(255, 0, 0);
+}
